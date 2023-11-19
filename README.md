@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br/>
+<p align="center">
+  <a href="https://github.com/GRIZLI-RGB/motobro">
+    <img src="./public/images/logo.svg" alt="Logo" width="268" height="49">
+  </a>
 
-## Getting Started
+  <p align="center">
+    Сделано мотоциклистами для мотоциклистов!
+    <br/>
+    <br/>
+  </p>
 
-First, run the development server:
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Contributors](https://img.shields.io/github/contributors/GRIZLI-RGB/motobro?color=dark-green) ![Issues](https://img.shields.io/github/issues/GRIZLI-RGB/motobro) ![License](https://img.shields.io/github/license/GRIZLI-RGB/motobro)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" height="25"/>
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="25"/>
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Logo" height="25">
+<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Logo" height="25">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Logo" height="25">
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## О проекте
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screen Shot](./public/images/prelanding-screenshot.png)
 
-## Learn More
+MOTOBRO — проект, который поможет сделать вашу мотожизнь лучше и комфортнее.
 
-To learn more about Next.js, take a look at the following resources:
+Функционал мотопортала огромен. Мы — это непросто сайт, это **целая экосистема**:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Личный онлайн-гараж
+* Мотофорум
+* Мотонавигатор
+* Мотокалендарь
+* ...
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Лицензия
 
-## Deploy on Vercel
+Распространяется под лицензией MIT. Смотрите [LICENSE](https://mit-license.org/) для большей информации.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Разработчики
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* **Евгений Козлов** - *GRIZLI-RGB* - [Евгений Козлов](https://github.com/GRIZLI-RGB/) - *Team Leader, Frontend Developer, Designer*
+* **Куаныш Кирейбаев** - *Yamemik* - [Куаныш Кирейбаев](https://github.com/Yamemik) - *Backend Developer*
