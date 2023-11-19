@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* [NORMALIZE] */
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font:
+		16px "Open Sans",
+		sans-serif;
+}
+
+input {
+	outline: none;
+	background: transparent;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* [GLOBAL CLASSES] */
+
+.flex-middle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
